@@ -1,0 +1,218 @@
+{
+  "title": {
+    "en": "A test for a student",
+    "it": "un test per gli studenti"
+  },
+  "questions" : [
+    {
+      "question": "Con il termine 'World Wide Web' si riferisce a :",
+      "answers": [
+        {
+          "answer": "Un documento ipermediale distribuito",
+          "score": 1
+        },
+        {
+          "answer": "Internet",
+          "score": 0
+        },
+        {
+          "answer": "Il Cloud",
+          "score": 0
+        },
+        {
+          "answer": "L'insieme dei client e dei server che costituiscono Internet",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "Quali di queste definizioni non è 'World Wide Web': ",
+      "answers": [
+        {
+          "answer": "L’ecosistema hardware, software è 'contenteware' fortemente eterogeneo",
+          "score": 0
+        },
+        {
+          "answer": "Un documento consultabile in maniera non lineare",
+          "score": 0
+        },
+        {
+          "answer": "Rete di risorse informative interconnesse",
+          "score": 0
+        },
+        {
+          "answer": "Wide Area Network",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Cosa è un server? ",
+      "answers": [
+        {
+          "answer": "Un computer particolarmente performante aderente ad alti standard industriali.",
+          "score": 0
+        },
+        {
+          "answer": "Un software capace di fornire pagine web attraverso il protocollo POP3.",
+          "score": 0
+        },
+        {
+          "answer": "Software che si attiva per connettersi ad un client è capace di interagire con esso con un opportuno protocollo.",
+          "score": 0
+        },
+        {
+          "answer": "Software in perpetua attesa di una connessione da parte di un client e capace di interagire con esso con un opportuno protocollo.",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Quale di queste frasi NON è corretta:",
+      "answers": [
+        {
+          "answer": "Un linguaggio di markup è un sistema formale per rappresentare dati strutturati",
+          "score": 0
+        },
+        {
+          "answer": "L’XML è un linguaggio di descrizione di dati",
+          "score": 0
+        },
+        {
+          "answer": "L’HTML è il linguaggio con cui si programmano le pagine web",
+          "score": 1
+        },
+        {
+          "answer": "Un documento XML si dice ben formattato se l’elemento radice è unico, ogni tag di inizio elemento ha un corrispondente tag di fine elemento, gli elementi sono annidati correttamente, i valori degli attributi sono racchiusi tra apici.",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "Solo una di queste 4 semplici pagine HTML5 è corretta:",
+      "answers": [
+        {
+          "answer": "<xmp><head><title>Title</title></head><body>Content</body></xmp>",
+          "score": 0
+        },
+        {
+          "answer": "<xmp><html><head><title>Title</title></head><body>Content</body></html></xmp>",
+          "score": 0
+        },
+        {
+          "answer": "<xmp><!DOCTYPE html><html><head><meta charset=\"UTF-8\"/><title>Title</title></head><body>Content</body></html></xmp>",
+          "score": 0
+        },
+        {
+          "answer": "<xmp><?xml version=“1.0” encoding=“UTF-8” ?><!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.1//EN//” “http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd”></xmp><br/> &nbsp &nbsp <xmp><html xmlns=“http://www.w3.org/1999/xhtml”><head><title>Title</title></head><body>Content</body></html></xmp>",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Al fine di rendere sicuro un form di login, come è necessario effettuare l’implementazione:",
+      "answers": [
+        {
+          "answer": "HTTP/GET",
+          "score": 0
+        },
+        {
+          "answer": "HTTP/POST",
+          "score": 0
+        },
+        {
+          "answer": "HTTPS/GET",
+          "score": 0
+        },
+        {
+          "answer": "HTTPS/POST",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Quali di queste affermazioni non è vera:",
+      "answers": [
+        {
+          "answer": "Il Javascript è un linguaggio di programmazione orientato agli oggetti",
+          "score": 0
+        },
+        {
+          "answer": "Il Javascript è basato sui prototipi",
+          "score": 0
+        },
+        {
+          "answer": "Non esiste una distinzione tra classi ed istanze: solo oggetti",
+          "score": 0
+        },
+        {
+          "answer": "Il Javascript può essere usato solo lato client",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "Quali dei seguenti non è un sistema di storage proprio degli ambienti basati su Cloud Computing:",
+      "answers": [
+        {
+          "answer": "Block Storage - analogo a hard disk da connettere alla singola macchina virtuale",
+          "score": 0
+        },
+        {
+          "answer": "Object Storage - oggetti identificati da url possono essere memorizzati e recuperati indipendentemente dall’attivazione di una macchina virtuale",
+          "score": 0
+        },
+        {
+          "answer": "File Storage - i file possono essere memorizzati in un file system virtuale",
+          "score": 1
+        },
+        {
+          "answer": "Elastic Storage - gli oggetti possono essere memorizzati in forma di file su di un hard disk virtuale da connettere alla singola istanza di macchina virtuale.",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "Riguardo al linguaggio di programmazione Python, quale di queste affermazioni è falsa:",
+      "answers": [
+        {
+          "answer": "È compilato ed eseguibile da ogni processore",
+          "score": 1
+        },
+        {
+          "answer": "È multi-paradigma",
+          "score": 0
+        },
+        {
+          "answer": "È estensibile attraverso librerie esterne",
+          "score": 0
+        },
+        {
+          "answer": "È completamente basato sul late binding",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "Volendo rispondere con la stringa “<html><body>Helloworld!</body></html>” alla url /hello quale di cel seguente codice è corretto?",
+      "answers": [
+        {
+          "answer": "@app.route(“/”):<br/> &nbsp &nbsp &nbsp &nbsp &nbsp def hello():<br/> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp return “<html><body>Helloworld!</body></html>”\n",
+          "score": 0
+        },
+        {
+          "answer": "@app.route(“/”): <br/> &nbsp &nbsp &nbsp &nbsp &nbsp return “<html><body>Helloworld!</body></html>”\n",
+          "score": 0
+        },
+        {
+          "answer": "@app.route(“/hello”):<br/> &nbsp &nbsp &nbsp &nbsp &nbsp def hello(): <br/> &nbsp &nbsp &nbsp &nbsp &nbsp return “<html><body>Helloworld!</body></html>",
+          "score": 0
+        },
+        {
+          "answer": "@app.route(“/hello”):<br/> &nbsp &nbsp &nbsp &nbsp &nbsp def hello():<br/> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp return “<html><body>Helloworld!</body></html>",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
